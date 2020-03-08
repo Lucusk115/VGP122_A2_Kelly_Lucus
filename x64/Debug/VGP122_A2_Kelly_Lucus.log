@@ -1,0 +1,7 @@
+﻿  CrazyEightsPart2.cpp
+C:\Users\lucus\OneDrive\Desktop\Programming Fundamentals\Ass2\VGP122_A2_Kelly_Lucus\CrazyEightsPart2.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Dealer.cpp
+C:\Users\lucus\OneDrive\Desktop\Programming Fundamentals\Ass2\VGP122_A2_Kelly_Lucus\Dealer.cpp(17,6): warning C4101: 'cardstatus': unreferenced local variable
+C:\Users\lucus\OneDrive\Desktop\Programming Fundamentals\Ass2\VGP122_A2_Kelly_Lucus\Dealer.cpp(421,9): warning C4552: '!=': result of expression not used
+  Generating Code...
+  VGP122_A2_Kelly_Lucus.vcxproj -> C:\Users\lucus\OneDrive\Desktop\Programming Fundamentals\Ass2\VGP122_A2_Kelly_Lucus\x64\Debug\VGP122_A2_Kelly_Lucus.exe
